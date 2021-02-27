@@ -1,0 +1,39 @@
+.mycontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.resultsContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.myForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.myab {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
